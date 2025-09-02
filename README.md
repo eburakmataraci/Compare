@@ -2,6 +2,10 @@
 
 A modern, scalable, and maintainable project structure. Designed with clean code principles and flexible architecture for fast setup, easy development, and long-term sustainability. 🚀
 
+![Uygulama Ekran Görüntüsü](images/app1.png)
+![Uygulama Ekran Görüntüsü](images/app2.png)
+![Uygulama Ekran Görüntüsü](images/app3.png)
+
 ---
 
 ## ✨ Features
